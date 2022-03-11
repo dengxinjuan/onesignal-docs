@@ -1,0 +1,7 @@
+{
+  "web-push": "Web Push",
+  "mobile-push": "Mobile Push",
+  "email": "Email",
+  "iam": "In-app Messages",
+  "sms": "SMS"
+}
