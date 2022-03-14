@@ -1,6 +1,7 @@
 export default {
   github: 'https://github.com/OneSignalDevelopers/onesignal-docs',
-  docsRepositoryBase: 'https://github.com/shuding/OneSignalDevelopers/blob/master',
+  docsRepositoryBase:
+    'https://github.com/shuding/OneSignalDevelopers/blob/master',
   titleSuffix: ' – OneSignal',
   logo: (
     <>
@@ -64,4 +65,5 @@ export default {
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
   unstable_faviconGlyph: '👋',
+  defaultMenuCollapsed: true,
 }
