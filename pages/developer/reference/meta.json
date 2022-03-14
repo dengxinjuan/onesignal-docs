@@ -1,5 +1,5 @@
 {
   "api-reference": "API Reference",
-  "server-sdk": "Server-side SDKs",
-  "client-sdk": "Client-side SDKs"
+  "device-sdk": "Device-side SDKs",
+  "server-sdk": "Server-side SDKs"
 }
