@@ -1,10 +1,9 @@
 {
   "index": "Introduction",
   "getting-started": "Getting Started",
-  "getting-started-developers": "Developer",
   "features": "Features",
   "channels": "Channels",
   "integrations": "Integrations",
-  "reference": "Reference",
+  "developer": "Developer",
   "glossary": "Glossary"
 }
